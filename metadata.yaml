@@ -1,0 +1,25 @@
+_repo: Una-sfida-al-Polo_58415
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Salgari, Emilio
+    birthdate: 1862
+    deathdate: 1911
+    gutenberg_agent_id: '31123'
+    url: http://www.gutenberg.org/2009/agents/31123
+    wikipedia:
+    - http://it.wikipedia.org/wiki/Emilio_Salgari
+    - http://en.wikipedia.org/wiki/Emilio_Salgari
+description: ''
+gutenberg_issued: '2018-12-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58415'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Una sfida al Polo
+url: http://www.gutenberg.org/ebooks/58415
